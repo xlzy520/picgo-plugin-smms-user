@@ -1,6 +1,6 @@
 {
   "name": "picgo-plugin-smms-user",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "SMMS-用户",
   "main": "src/index.js",
   "publishConfig": {
