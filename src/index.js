@@ -9,7 +9,7 @@ module.exports = (ctx) => {
   const postOptions = (Authorization, fileName, image) => {
     return {
       method: 'POST',
-      url: `https://sm.ms/api/v2/upload`,
+      url: `https://smms.app/api/v2/upload`,
       headers: {
         contentType: 'multipart/form-data',
         'User-Agent': 'PicGo',
